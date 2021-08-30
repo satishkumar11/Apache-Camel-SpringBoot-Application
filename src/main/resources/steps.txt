@@ -1,0 +1,4 @@
+
+
+1)  run - "docker-compose up -d" without quotes from resources directory. It will download the image and start the docker container
+    url - https://x-team.com/blog/set-up-rabbitmq-with-docker-compose/
