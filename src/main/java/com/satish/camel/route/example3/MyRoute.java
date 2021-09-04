@@ -1,4 +1,4 @@
-package com.satish.camel.route.example1;
+package com.satish.camel.route.example3;
 
 import com.satish.camel.aggregator.MyAggregatorStrategy;
 import org.apache.camel.Message;
